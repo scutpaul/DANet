@@ -1,3 +1,9 @@
+# For DANet
+.idea/
+data/
+pretrain_model/
+DANsnapshots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
